@@ -1,0 +1,31 @@
+body{
+    background-image: url("img/fundo.png");
+}
+.page{
+    width: 900px;
+    background-color: rgb(168, 160, 147);
+}
+.menu{
+    padding: 10px 5px;
+    font-size: 2em;
+}
+a{
+    text-decoration: none;
+    font-weight: 300;
+    color: rgb(41, 57, 58);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text{
+    background-color: rgb(235, 230, 224);
+    padding: 5px;
+}
+.title{
+    color: rgb(105, 100, 93);
+}
+.rodape{
+    text-align: center;
+    font-weight: 900;
+}
+.bonde{
+    font-weight: 600;
+}
